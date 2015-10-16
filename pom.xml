@@ -14,7 +14,6 @@
 
 	<artifactId>fiji</artifactId>
 	<version>2.0.0-SNAPSHOT</version>
-	<packaging>pom</packaging>
 
 	<name>Fiji</name>
 	<description>Fiji is a distribution of ImageJ for the life sciences.</description>
