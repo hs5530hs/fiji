@@ -760,6 +760,11 @@
 	</dependencies>
 
 	<profiles>
+		<!--
+		TODO: Does anything still use this? Jenkins jobs?
+		Are the cumulative javadocs posted anywhere?
+		What is at http://javadoc.imagej.net/Fiji ?
+		-->
 		<profile>
 			<id>cumulative-javadocs</id>
 			<build>
